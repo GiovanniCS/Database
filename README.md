@@ -12,7 +12,7 @@ clone this repository and enter in the right path
 git clone https://github.com/GiovanniCS/Database.git
 cd Database
 ```
-create the database in which import the project
+create the database in which you can import the project
 ```
 mysql -u root -p
 create database project
