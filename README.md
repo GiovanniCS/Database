@@ -7,7 +7,7 @@ Make sure you have mysql installed
 ```
 mysql -V
 ```
-clone this repository and enter in the right path
+clone this repository and enter the right path
 ```
 git clone https://github.com/GiovanniCS/Database.git
 cd Database
